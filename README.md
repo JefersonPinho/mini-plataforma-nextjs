@@ -53,7 +53,7 @@ Siga os passos abaixo para rodar o projeto localmente.
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
+    git clone [https://github.com/JefersonPinho/mini-plataforma-nextjs](https://github.com/JefersonPinho/mini-plataforma-nextjs)
     ```
 
 2.  Navegue até a pasta do projeto:
@@ -122,3 +122,4 @@ mini-plataforma/
 └── tests/                 # Suítes de testes End-to-End do Playwright
     └── products.spec.ts   # Testes para o fluxo de produtos
 ```
+
