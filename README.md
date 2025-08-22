@@ -5,7 +5,7 @@
 
 Uma aplicação web moderna e responsiva que simula uma pequena plataforma de e-commerce. O projeto foi desenvolvido com Next.js e TypeScript, demonstrando as melhores práticas de desenvolvimento, desde a busca de dados estáticos até testes End-to-End.
 
-**🔗 Link do Projeto:** [**Acesse a demonstração ao vivo aqui!**](https://SEU-LINK-DA-VERCEL.vercel.app)
+**🔗 Link do Projeto:** [**Acesse a demonstração ao vivo aqui!**](https://mini-plataforma-nextjs.vercel.app/)
 
 ---
 
@@ -122,6 +122,7 @@ mini-plataforma/
 └── tests/                 # Suítes de testes End-to-End do Playwright
     └── products.spec.ts   # Testes para o fluxo de produtos
 ```
+
 
 
 
