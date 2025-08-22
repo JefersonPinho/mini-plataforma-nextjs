@@ -1,10 +1,11 @@
 # Mini Plataforma de E-commerce com Next.js
 
-![Mini Plataforma Screenshot](https://i.imgur.com/your-screenshot-url.png) <!-- Opcional: Tire um screenshot do seu projeto e suba no imgur.com para colocar o link aqui -->
+![Mini Plataforma Screenshot](https://imgur.com/a/qArHpk0)
+![Detalhes do produto](https://imgur.com/ab0htkg)
 
 Uma aplicação web moderna e responsiva que simula uma pequena plataforma de e-commerce. O projeto foi desenvolvido com Next.js e TypeScript, demonstrando as melhores práticas de desenvolvimento, desde a busca de dados estáticos até testes End-to-End.
 
-**🔗 Link do Projeto:** [**Acesse a demonstração ao vivo aqui!**](https://SEU-LINK-DA-VERCEL.vercel.app) <!-- Coloque o link que a Vercel te deu aqui -->
+**🔗 Link do Projeto:** [**Acesse a demonstração ao vivo aqui!**](https://SEU-LINK-DA-VERCEL.vercel.app)
 
 ---
 
