@@ -1,6 +1,6 @@
 # Mini Plataforma de E-commerce com Next.js
 
-![Mini Plataforma Screenshot](https://imgur.com/a/qArHpk0)
+![Mini Plataforma Screenshot](https://imgur.com/RETNpXq)
 ![Detalhes do produto](https://imgur.com/ab0htkg)
 
 Uma aplicação web moderna e responsiva que simula uma pequena plataforma de e-commerce. O projeto foi desenvolvido com Next.js e TypeScript, demonstrando as melhores práticas de desenvolvimento, desde a busca de dados estáticos até testes End-to-End.
@@ -122,4 +122,5 @@ mini-plataforma/
 └── tests/                 # Suítes de testes End-to-End do Playwright
     └── products.spec.ts   # Testes para o fluxo de produtos
 ```
+
 
